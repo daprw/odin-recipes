@@ -11,4 +11,4 @@ The foundational HTML skills that are demonstrated at the end of the project inc
 - Using Links to navigate to other pages on the website.
 - Using Git to add features and version control the website.
 
-website url: devbydaylight.github.io/odin-recipes
+website url: https://devbydaylight.github.io/odin-recipes
